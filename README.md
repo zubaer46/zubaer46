@@ -6,10 +6,10 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yousuf-zubaer/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:yousufzubaer1622@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe alt=facebook style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
