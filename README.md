@@ -26,16 +26,16 @@ I'm a passionate Software Engineer, Web Developer and  Problem Solver .Currently
 ## About me  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Web Applications using javascript frameworks  
+ 🔭 I’m currently working on Web Applications using javascript frameworks  
   
 
-- 🌱 I’m currently learning DSA ,Next.js,TypeScript  
+ 🌱 I’m currently learning DSA ,Next.js,TypeScript  
   
 
-- ❓ Ask me about anything (I will google it ...⌨️)  
+ ❓ Ask me about anything (I will google it ...⌨️)  
   
 
-- ⚡ Fun fact: Cats are cute...🐱  
+ ⚡ Fun fact: Cats are cute...🐱  
 
 
 </td><td valign="top" width="50%">
