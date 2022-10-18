@@ -5,7 +5,7 @@
 <a href="https://github.com/zubaer46" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yousuf-zubaer/" target="_blank">
+<a href="https://www.linkedin.com/in/yousuf-zubaer/" target="_blank">
 <img src=https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:yousufzubaer1622@gmail.com" target="_blank">
