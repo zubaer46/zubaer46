@@ -24,9 +24,11 @@ I'm a passionate Software Engineer, Web Developer and  Problem Solver .Currently
 
 
 ## About me  
-<table><tr><td valign="top" width="50%">
+<a target="_blank" align="center">
+  <img align="right" top="500" height="220" width="325" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
- 🔭 I’m currently working on Web Applications using javascript frameworks  
+🔭 I’m currently working on Web Applications using javascript frameworks  
   
 
  🌱 I’m currently learning DSA ,Next.js,TypeScript  
@@ -36,18 +38,7 @@ I'm a passionate Software Engineer, Web Developer and  Problem Solver .Currently
   
 
  ⚡ Fun fact Cats are cute...🐱  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
+<br/>
 
 
 ## Skills  
