@@ -35,7 +35,7 @@ I'm a passionate Software Engineer, Web Developer and  Problem Solver .Currently
  ❓ Ask me about anything (I will google it ...⌨️)  
   
 
- ⚡ Fun fact: Cats are cute...🐱  
+ ⚡ Fun fact Cats are cute...🐱  
 
 
 </td><td valign="top" width="50%">
