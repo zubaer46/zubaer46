@@ -17,7 +17,7 @@
 
 
 ### Glad to see you here!  
-I'm a passionate Software Engineer, Web Developer and  Problem Solver .Currently pursuing a bachelor's degree in Software Engineering at IICT, SUST. I like to explore new technologies and develop software solutions.  
+I'm a passionate Software Engineer, Web Developer, and Problem Solver. Currently pursuing a bachelor's degree in Software Engineering at IICT, SUST. I like to explore new technologies and develop software solutions. 
   
 
 <br/>  
