@@ -8,8 +8,8 @@
 <a href="mailto:yousufzubaer1622@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/zubaer46](https://www.facebook.com/yousuf.zubaer/" target="_blank">
-<img src=https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white alt=linkedin style="margin-bottom: 5px;/>
+<a href="https://www.facebook.com/yousuf.zubaer/" target="_blank">
+<img src=https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
  </a>
 </div>  
   
