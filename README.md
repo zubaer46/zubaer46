@@ -1,12 +1,12 @@
-<!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=200&section=header&text=MD%20Yousuf%20Zubaer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Full-Stack&descSize=18&descAlignY=58" alt="banner" />
-
-<!-- TYPING HEADER -->
+<!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A6DF1&center=true&vCenter=true&width=600&lines=AI+%26+Full-Stack+Software+Engineer;Building+with+LLMs%2C+RAG+%26+MCP;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+TypeScript)](https://github.com/zubaer46)
+# MD Yousuf Zubaer
 
-<!-- SOCIAL BADGES -->
+### Software Engineer · AI & Full-Stack
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A6DF1&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+with+LLMs%2C+RAG+%26+MCP;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+TypeScript)](https://github.com/zubaer46)
+
 <a href="https://www.linkedin.com/in/yousuf-zubaer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:yousuf.zubaer3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.facebook.com/yousuf.zubaer/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -15,7 +15,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
+---
 
 ## 👨‍💻 About me
 
@@ -23,7 +23,7 @@
   <img align="right" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-🏢 Currently an **Associate Software Engineer at Cefalo Bangladesh Ltd**, working on an OKR-management SaaS (Dobee)
+🏢 Currently a **Software Engineer at Cefalo Bangladesh Ltd**, working on an OKR-management SaaS (Dobee)
 
 🧠 Focused on **AI for software engineering** — LLM integration, Retrieval-Augmented Generation, and protocol-based tool integration (MCP)
 
@@ -37,7 +37,7 @@
 
 <br clear="right"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
+---
 
 ## 🚀 Featured Projects
 
@@ -49,7 +49,7 @@
 
 🔹 **Blog-Venture** — A full-stack blogging app with post management, image uploads, JWT auth, React Query caching, and Jest-based tests.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
+---
 
 ## 🛠️ Tech Stack
 
@@ -84,13 +84,15 @@
 
 **AI / LLM**
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LLM Integration](https://img.shields.io/badge/LLM_Integration-6E40C9?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-6E40C9?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6E40C9?style=for-the-badge)
 ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-6E40C9?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E40C9?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Cloud & Tools**
 
@@ -100,7 +102,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
+---
 
 ## 📊 GitHub Stats
 
@@ -115,7 +117,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
+---
 
 ## 🤝 Let's connect
 
@@ -124,5 +126,3 @@
 📫 Reach me at **yousuf.zubaer3@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/yousuf-zubaer/)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=120&section=footer" alt="footer" />
