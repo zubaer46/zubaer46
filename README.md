@@ -1,27 +1,26 @@
-# Hi, I'm Yousuf Zubaer 👋
+<!-- BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=200&section=header&text=MD%20Yousuf%20Zubaer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Full-Stack&descSize=18&descAlignY=58" alt="banner" />
 
-<div align="right">
-<a href="https://www.linkedin.com/in/yousuf-zubaer/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:yousuf.zubaer3@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/yousuf.zubaer/" target="_blank">
-<img src="https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
-</a>
+<!-- TYPING HEADER -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A6DF1&center=true&vCenter=true&width=600&lines=AI+%26+Full-Stack+Software+Engineer;Building+with+LLMs%2C+RAG+%26+MCP;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+TypeScript)](https://github.com/zubaer46)
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/yousuf-zubaer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yousuf.zubaer3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.facebook.com/yousuf.zubaer/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=zubaer46&style=flat-square&color=8A6DF1&label=Profile+Views" alt="profile views" />
+
 </div>
 
-### Software Engineer · AI & Full-Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
 
-I'm a Software Engineer who builds full-stack products and AI-powered systems. I work across the stack with **React/Next.js** and **Node/NestJS**, and I focus on applying **LLMs, RAG, and agentic AI (MCP)** to real software engineering problems.
-
-<br/>
-
-## About me
+## 👨‍💻 About me
 
 <a target="_blank" align="center">
-  <img align="right" height="220" width="325" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 🏢 Currently an **Associate Software Engineer at Cefalo Bangladesh Ltd**, working on an OKR-management SaaS (Dobee)
@@ -36,18 +35,11 @@ I'm a Software Engineer who builds full-stack products and AI-powered systems. I
 
 ⚡ Fun fact: cats are still cute 🐱
 
-<br/>
-<br/>
+<br clear="right"/>
 
-## What I work on
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
 
-🤖 **AI & LLM Systems** — RAG pipelines, MCP-based tool integration, vector search, prompt engineering
-💻 **Full-Stack Development** — React, Next.js, Express, NestJS, PostgreSQL, MySQL
-☁️ **Cloud & Auth** — AWS Amplify, AWS Cognito, Stripe integrations
-
-<br/>
-
-## Featured Projects
+## 🚀 Featured Projects
 
 🔹 **HR Portal Assistant** — A RAG pipeline for HR policy queries, integrating an MCP server and GPT-4o Mini for context-aware, multi-step conversations. Semantic search built with OpenAI embeddings, ChromaDB, and an overlapping chunking strategy.
 
@@ -57,9 +49,9 @@ I'm a Software Engineer who builds full-stack products and AI-powered systems. I
 
 🔹 **Blog-Venture** — A full-stack blogging app with post management, image uploads, JWT auth, React Query caching, and Jest-based tests.
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
 
-## Skills
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -108,22 +100,29 @@ I'm a Software Engineer who builds full-stack products and AI-powered systems. I
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<table><tr><td valign="top" width="50%">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zubaer46&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer46&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zubaer46&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubaer46&hide_border=true&layout=compact&theme=tokyonight" alt="top langs" />
 
 <br/>
 
-## Let's connect
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zubaer46&hide_border=true&theme=tokyonight" alt="streak" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,20&height=3" alt="divider" />
+
+## 🤝 Let's connect
+
+<div align="center">
 
 📫 Reach me at **yousuf.zubaer3@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/yousuf-zubaer/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=120&section=footer" alt="footer" />
