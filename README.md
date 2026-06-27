@@ -27,7 +27,7 @@
 
 🧠 Focused on **AI for software engineering** — LLM integration, Retrieval-Augmented Generation, and protocol-based tool integration (MCP)
 
-🔭 Building full-stack web apps and AI assistants with TypeScript, Next.js, and NestJS
+🔭 Building **full-stack web apps** and LLM integration with TypeScript, Next.js, and NestJS
 
 🌱 Currently exploring **agentic AI, MCP tooling, and RAG evaluation**
 
