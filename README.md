@@ -23,7 +23,7 @@
   <img align="right" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-🏢 Currently a **Software Engineer at Cefalo Bangladesh Ltd**, working on an OKR-management SaaS (Dobee)
+🏢 Currently a **Software Engineer at Cefalo Bangladesh Ltd**
 
 🔭 Building **full-stack web apps** and LLM integration with TypeScript, Next.js, and NestJS
 
