@@ -25,7 +25,7 @@
 
 🏢 Currently a **Software Engineer at Cefalo Bangladesh Ltd**
 
-🔭 Building **full-stack web apps** and LLM integration with TypeScript, Next.js, and NestJS
+🔭 Building **full-stack web apps** and LLM integration with TypeScript, React, Express.js, Next.js, and NestJS
 
 🌱 Currently exploring **agentic AI, MCP tooling, and RAG evaluation**
 
